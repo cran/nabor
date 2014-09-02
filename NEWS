@@ -1,0 +1,33 @@
+nabor 0.4.2
+===========
+* license fixes for CRAN (include GJ as copyright holder)
+
+nabor 0.4.1
+===========
+* CRAN release
+* insist on RcppEigen >= 0.3.2.2.0 (conservative but should not be restrictive)
+
+nabor 0.4
+=========
+* corectly handle non-floating point input to knn (and note that WKNN classes 
+  must be initialised with floating point input)
+* standardise method names of WKNN classes so that they are identical for WKNND
+  and WKNNF objects
+* doc: improve main package docs
+* dev: templatise WKNN C++ classes
+
+nabor 0.3
+=========
+* preparing for CRAN
+* rename package from nabo to nabor
+* fix handling of non-matrix inputs by knn
+* knn performs self-query when query is missing
+* dev: only link to RcppEigen
+* dev: remove boost/any.hpp header and insist on latest BH package (>= 1.54.0-4)
+  (also bumps R requirement to 3.0.2).
+
+nabor 0.2
+=========
+* first public version (github)
+* includes knn function (with different search types, defaulting to auto)
+* ... and WKNNF and WKNND classes that wrap a tree object
