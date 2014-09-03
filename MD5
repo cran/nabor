@@ -1,7 +1,7 @@
-a2314ed03aede7823cdc5bf25a04d931 *DESCRIPTION
+6e7101623e1a229435621b41ee2d74e7 *DESCRIPTION
 94d832e58feca0ab3d7c9f4951e88671 *LICENSE
 c7ee22c654739de7db28166ca6abb7f5 *NAMESPACE
-c11c7e0cfa9c4fb31f35b385a150be86 *NEWS
+0ff8dd6260b4486f12aeac5c391ca882 *NEWS
 b0410eba18c9ea4cc3e9fa67960b8385 *R/RcppExports.R
 de1efafd5643a99a1046d63f2ceef629 *R/WKNNClasses.R
 b09d9f26b15bc3595fa68e28c84219aa *R/knn.R
@@ -19,7 +19,7 @@ bbf7d25235e3d212e2c853dbed60bc2b *src/RcppExports.cpp
 004384b159047729832af1aaa4059351 *src/WKNN.h
 958c417df93c3bc465711feefddfb10c *src/brute_force_cpu.cpp
 010a5403b5f50b9a2f0b5b4b668d05ac *src/index_heap.h
-721e0b9092792173bb7bf799ee8fb575 *src/kdtree_cpu.cpp
+976e1517bebd5911ecf4f2cdac7d523b *src/kdtree_cpu.cpp
 c82ba267480d16b1b6e0a72641d079dd *src/nabo.cpp
 554f38205a2dd4c3361e268c172c1f71 *src/nabo.h
 7618a81312fb017d3fff229f0355fee7 *src/nabo_private.h
